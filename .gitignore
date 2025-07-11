@@ -1,0 +1,17 @@
+# Ignorar todas las carpetas build en cualquier subcarpeta
+**/build/
+
+# Ignorar todas las carpetas .gradle
+**/.gradle/
+
+# Ignorar configuraciones de IntelliJ/Android Studio
+**/.idea/
+**/*.iml
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# Archivos de salida comunes
+**/out/
