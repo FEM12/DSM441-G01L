@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Firebase</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="hello_world">Hello World</string>
+    <string name="login">Login</string>
+
+    <string name="confirm_password">Confirm Password</string>
+    <string name="signed">Signed</string>
+    <string name="already_have_an_account_login">Already have an account login</string>
+
+    <string name="don_t_have_an_account_sign_in">Don´t have an account sign in</string>
+
+</resources>
